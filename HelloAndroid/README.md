@@ -1,4 +1,3 @@
-::writing{variant="document" id="73183"}
 # 📱 HelloAndroid
 
 <p align="center">

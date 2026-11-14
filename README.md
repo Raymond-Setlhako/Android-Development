@@ -1,5 +1,4 @@
 1. Main Android Development README
-:::writing{variant="document" id="73182"}
 # 🌈 Android Development
 
 <p align="center">
