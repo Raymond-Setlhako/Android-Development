@@ -1,4 +1,3 @@
-1. Main Android Development README
 # 🌈 Android Development
 
 <p align="center">
